@@ -24,7 +24,7 @@ export default function Home() {
     useEffect(() => {
 
         const tempList=temp[0].products;
-        // tempList.filter(elem=>searchLocVal===elem.Location);
+        
         
         const finalList=tempList.filter((elem)=>{
             return ((searchLocVal===elem.Location || searchLocVal==='All') &
@@ -35,7 +35,7 @@ export default function Home() {
         
     
       
-    }, [searchLocVal,searchPriceRange,searchProperty])
+    }, [searchLocVal,searchPriceRange,searchProperty,temp])
     
   return (
     <div>
