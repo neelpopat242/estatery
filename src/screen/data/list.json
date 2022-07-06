@@ -1,0 +1,222 @@
+[
+    {
+        "products": [
+            {
+                "id": 1,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 1700,
+                "Location": "Ahmedabad",
+                "long_location": "2093 Godrej Garden city , FL",
+                "bed": 2,
+                "bathroom": 2,
+                "area_len": 6,
+                "area_width": 6,
+                "house_type": "Flat"
+            },
+            {
+                "id": 2,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 4500,
+                "Location": "Ahmedabad",
+                "long_location": "2093 Godrej Garden city , FL",
+                "bed": 2,
+                "bathroom": 2,
+                "area_len": 6,
+                "area_width": 6,
+                "house_type": "Villa"
+            },
+            {
+                "id": 3,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 5300,
+                "Location": "Ahmedabad",
+                "long_location": "2093 Godrej Garden city , FL",
+                "bed": 2,
+                "bathroom": 2,
+                "area_len": 6,
+                "area_width": 6,
+                "house_type": "Flat"
+            },
+            {
+                "id": 4,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 2800,
+                "Location": "Vadodara",
+                "long_location": "Shanti, Near MSU",
+                "bed": 2,
+                "bathroom": 2,
+                "area_len": 6,
+                "area_width": 6,
+                "house_type": "Flat"
+            },
+            {
+                "id": 5,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 4500,
+                "Location": "Mumbai",
+                "long_location": "2021 ,Andheri East",
+                "bed": 2,
+                "bathroom": 2,
+                "area_len": 6,
+                "area_width": 6,
+                "house_type": "Flat"
+            },
+            {
+                "id": 6,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 5300,
+                "Location": "Mumbai",
+                "long_location": "22021 ,Andheri East",
+                "bed": 3,
+                "bathroom": 3,
+                "area_len": 7,
+                "area_width": 7,
+                "house_type": "Flat"
+            },
+            {
+                "id": 7,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 2800,
+                "Location": "Mumbai",
+                "long_location": "2021 ,Andheri East",
+                "bed": 3,
+                "bathroom": 3,
+                "area_len": 7,
+                "area_width": 7,
+                "house_type": "Flat"
+            },
+            {
+                "id": 8,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 4500,
+                "Location": "Vadodara",
+                "long_location": "Shanti, Near MSU",
+                "bed": 3,
+                "bathroom": 3,
+                "area_len": 7,
+                "area_width": 7,
+                "house_type": "House"
+            },
+            {
+                "id": 9,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 5300,
+                "Location": "Vadodara",
+                "long_location": "Shanti, Near MSU",
+                "bed": 3,
+                "bathroom": 3,
+                "area_len": 7,
+                "area_width": 7,
+                "house_type": "House"
+            },
+            {
+                "id": 10,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 1700,
+                "Location": "Ahmedabad",
+                "long_location": "2093 Godrej Garden city , FL",
+                "bed": 3,
+                "bathroom": 3,
+                "area_len": 7,
+                "area_width": 7,
+                "house_type": "House"
+            },
+            {
+                "id": 11,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 4500,
+                "Location": "Ahmedabad",
+                "long_location": "2093 Godrej Garden city , FL",
+                "bed": 3,
+                "bathroom": 3,
+                "area_len": 7,
+                "area_width": 7,
+                "house_type": "House"
+            },
+            {
+                "id": 12,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 5300,
+                "Location": "Ahmedabad",
+                "long_location": "2093 Godrej Garden city , FL",
+                "bed": 4,
+                "bathroom": 4,
+                "area_len": 8,
+                "area_width": 8,
+                "house_type": "House"
+            },
+            {
+                "id": 13,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 1700,
+                "Location": "Vadodara",
+                "long_location": "Shanti, Near MSU",
+                "bed": 4,
+                "bathroom": 4,
+                "area_len": 8,
+                "area_width": 8,
+                "house_type": "House"
+            },
+            {
+                "id": 14,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 4500,
+                "Location": "Mumbai",
+                "long_location": "2021 ,Andheri East",
+                "bed": 4,
+                "bathroom": 4,
+                "area_len": 8,
+                "area_width": 8,
+                "house_type": "House"
+            },
+            {
+                "id": 15,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 5300,
+                "Location": "Mumbai",
+                "long_location": "2021 ,Andheri East",
+                "bed": 4,
+                "bathroom": 4,
+                "area_len": 8,
+                "area_width": 8,
+                "house_type": "Villa"
+            },
+            {
+                "id": 16,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 1700,
+                "Location": "Mumbai",
+                "long_location": "2021 ,Andheri East",
+                "bed": 1,
+                "bathroom": 1,
+                "area_len": 4,
+                "area_width": 4,
+                "house_type": "Villa"
+            },
+            {
+                "id": 17,
+                "image_link": "https://i.ibb.co/yBNYxLk/01.jpg",
+                "price": 4500,
+                "Location": "Vadodara",
+                "long_location": "Shanti, Near MSU",
+                "bed": 1,
+                "bathroom": 1,
+                "area_len": 4,
+                "area_width": 4,
+                "house_type": "Villa"
+            },
+            {
+                "id": 18,
+                "image_link": "https://i.ibb.co/PzzZ2xg/04.jpg",
+                "price": 5300,
+                "Location": "Vadodara",
+                "long_location": "Shanti, Near MSU",
+                "bed": 1,
+                "bathroom": 1,
+                "area_len": 4,
+                "area_width": 4,
+                "house_type": "Villa"
+            }
+        ]
+    }
+]
