@@ -21,21 +21,20 @@ export default function Home() {
     function onSetSearchProperty(property){
         setSearchProperty(property);
     }
-    useEffect(() => {
+    useEffect(function () {
 
-        const tempList=temp[0].products;
-        // tempList.filter(elem=>searchLocVal===elem.Location);
-        
-        const finalList=tempList.filter((elem)=>{
-            return ((searchLocVal===elem.Location || searchLocVal==='All') &
-            (searchPriceRange>elem.price || searchPriceRange==='All') &
-             (searchProperty===elem.house_type || searchProperty==='All'))
-        })
-        setData(finalList);
-        
-    
-      
-    }, [searchLocVal,searchPriceRange,searchProperty])
+            const tempList = temp[0].products
+            // tempList.filter(elem=>searchLocVal===elem.Location);
+            const finalList = tempList.filter((elem) => {
+                return ((searchLocVal === elem.Location || searchLocVal === 'All') &
+                    (searchPriceRange > elem.price || searchPriceRange === 'All') &
+                    (searchProperty === elem.house_type || searchProperty === 'All'))
+            })
+            setData(finalList)
+
+
+
+        }, [searchLocVal,searchPriceRange,searchProperty,temp])
     
   return (
     <div>

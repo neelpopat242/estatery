@@ -3,11 +3,7 @@ import FilterbyLocation from '../filter/FilterbyLocation'
 import FilterbyProperty from '../filter/FilterbyProperty'
 import FilterbyDate from '../filter/FilterbyDate'
 import FilterbyPrice from '../filter/FilterbyPrice'
-import { useState } from 'react'
 
-function captureSearch(){
-
-}
 
 export default function Filter({searchLocVal, setSearchLocVal,searchPriceRange,setSearchPriceRange,searchProperty,setSearchProperty}) {
     // const [searchLocVal, setSearchLocVal] = useState(props.searchLocVal);
