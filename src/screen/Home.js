@@ -21,7 +21,7 @@ export default function Home() {
     function onSetSearchProperty(property){
         setSearchProperty(property);
     }
-    useEffect((captureSearch) => {
+    useEffect(() => {
 
         const tempList=temp[0].products;
         // tempList.filter(elem=>searchLocVal===elem.Location);

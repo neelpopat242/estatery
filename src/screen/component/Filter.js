@@ -6,7 +6,7 @@ import FilterbyPrice from '../filter/FilterbyPrice'
 import { useState } from 'react'
 
 function captureSearch(){
-    
+
 }
 
 export default function Filter({searchLocVal, setSearchLocVal,searchPriceRange,setSearchPriceRange,searchProperty,setSearchProperty}) {
@@ -33,7 +33,7 @@ export default function Filter({searchLocVal, setSearchLocVal,searchPriceRange,s
             </div>
             
             <div className='col-3 my-3'>
-            <button type="button" className="btn btn-primary" onClick={captureSearch}>Search</button>
+            <button type="button" className="btn btn-primary" >Search</button>
             </div>
             
         </div>
