@@ -20,6 +20,7 @@ const onChange = (value) => {
     showSearch
     placeholder="Select Location"
     optionFilterProp="children"
+    onChange={onChange}
     
     filterOption={(input, option) => option.children.toLowerCase().includes(input.toLowerCase())}
   >

@@ -17,7 +17,7 @@ export default function Card(props) {
           <strong><h5 className="card-title">{props.data.Location}</h5></strong>
               </div>
               <div className='col-3 my-3'>
-              <i style={{fontSize:"24px"}} class="fa">&#xf004;</i>
+              <i style={{fontSize:"24px"}} className="fa">&#xf004;</i>
               </div>
           </div>
        
