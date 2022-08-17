@@ -31,7 +31,13 @@ export default function Home() {
             (searchPriceRange>elem.price || searchPriceRange==='All') &
              (searchProperty===elem.house_type || searchProperty==='All'))
         })
+        console.log(searchLocVal, searchPriceRange, searchProperty)
+        if(finalList.length === 0 && (searchLocVal === '' && searchPriceRange===0 && searchProperty==='')){
+            setData(temp[0].products);
+        }else{
         setData(finalList);
+
+        }
         
     
       
